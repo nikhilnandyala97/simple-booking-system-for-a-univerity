@@ -1,6 +1,38 @@
-1) Go to the folder(via terminal) where the files are saved and type make in the terminal to compile the code
-2) then type ./sample to run the code
-3)then the options appear select anyone of them by pressing the keyword mentioned.
-4)Note: my Lab.txt,Room.txt,Lec.txt also take the booking status while adding the rooms so dont forget to add 0 in the every text file
+Functionalities
+The developed system should implement the following functionalities:
+1. The program should be able to add rooms, labs, or lecture halls to the system
+dynamically.
+2. The program should be able to remove a room, lab, or lecture hall from the
+system.
+3. The program should have a mechanism to book a room, lab, or lecture hall.
+4. A person needs 30 units of the area to sleep in a room. The program should give
+the minimum number of rooms required to accommodate given number of
+persons.
+5. The program should be able to find the smallest lecture hall that can
+accommodate the given number of students [use chair information].
+6. The program should find the lab with least equipment density (computers per
+area unit) and should be able to add new equipment to the system[increasing the
+number of equipments is sufficient].
+7. Find a room nearest to the given location.
+8. Mechanism to book or unbook
+a room, lab, and lecture hall.
+9. Program should be able to print all details of the given room, lab, and lecture hall.
+10.When you exit the program, the system must store current booking status in a
+text file. The text file is loaded back to memory when the program starts again.
+Instructions:
+1) The details of the rooms are taken from the Room.txt and same for lab and lec.
+2) while adding any room/lab/lec manually make sure that you enter the details of the room in correct order 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
