@@ -20,5 +20,5 @@ a room, lab, and lecture hall.
 10.When you exit the program, the system must store current booking status in a
 text file. The text file is loaded back to memory when the program starts again.
 Instructions :
-1) First once check the order of variables given while adding rooms /labs/lecs.
+1) First once check the order of variables given while adding rooms  /labs/lecs.
 
